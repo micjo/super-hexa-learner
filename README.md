@@ -1,5 +1,5 @@
-# super-hexagon-bot
-This bot will play super-hexagon for you.
+# super-hexa-learner
+This bot will play Super Hexagon for you.
 
 ### Libraries used:
  * OpenCV
