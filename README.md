@@ -12,5 +12,7 @@ Based on the work of https://github.com/Sentdex
 conda create -n newenv
 source activate newenv
 conda install pip numpy matplotlib pillow ipython opencv
-pip install pyscreenshot
+pip install pyscreenshot python3_xlib pyautogui
 ```
+
+
